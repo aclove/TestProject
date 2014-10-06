@@ -1,0 +1,2 @@
+userB-write
+userA-write
