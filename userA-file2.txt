@@ -1,2 +1,3 @@
 userB write
 userA write
+userB write
